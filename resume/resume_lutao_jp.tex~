@@ -24,7 +24,7 @@
 \usepackage[whole]{bxcjkjatype}
 
 \usepackage{fancyhdr}
-\setlength{\headheight}{0pt}
+\setlength{\headheight}{-10pt}
 %\pagestyle{fancy}
 
 \frenchspacing              % Better looking spacings after periods
@@ -70,7 +70,7 @@
 \newcommand{\EducationEntry}[4]{
 		\noindent \textbf{#1} \hfill      % Study
 		\colorbox{Black}{%
-			\parbox{7em}{%
+			\parbox{6em}{%
 			\hfill\color{White}#2}} \par  % Duration
 		\noindent \textit{#3} \par        % School
 		\noindent\hangindent=2em\hangafter=0 \small #4 % Description
@@ -115,11 +115,11 @@
 \vspace{-0.7\baselineskip}
 \NewPart{学歴}{}
 
-\EducationEntry{修士　都市環境学}{2015年-2017年}{中央大学　日本}{国際水環境理工学人材育成プログラムにさ参加.このプログラムは、国連アカデミック・インパクト(United Nations Academic Impact,UNAI)の文脈のもとで進めており、また、文部科学省の支援を受けて進めているナショナルプロジェクトでもあります。}
+\EducationEntry{修士 都市環境学}{2015-2017}{中央大学　日本}{国際水環境理工学人材育成プログラムにさ参加.このプログラムは、国連アカデミック・インパクト(United Nations Academic Impact,UNAI)の文脈のもとで進めており、また、文部科学省の支援を受けて進めているナショナルプロジェクトでもあります。}
 \sepspace
 \vspace*{0.3em}
 
-\EducationEntry{学士　港口水路及海岸工学}{2010年-2014年}{河海大学　中国}
+\EducationEntry{学士. 港口水路及海岸工学}{2010-2014}{河海大学 中国}
 
 %%% Publications
 %%% ------------------------------------------------------------
@@ -132,7 +132,7 @@ Tao Lu, Tomohito Yamada, and Tadashi Yamada. "Fundamental Study of Real-time Sho
 \vspace{-0.7\baselineskip}
 \NewPart{職\ 歴}{}
 
-\EducationEntry{ソリューション事業部}{2017年-2018年}{株式会社地圏環境テクノロジー　正社員}{3次元水文地質モデルを構築し、水資源および水災害に関する受託解析を行っており、資源環境管理のソリューションを提供します。}
+\EducationEntry{ソリューション事業部}{2017-現在}{株式会社地圏環境テクノロジー, 正社員}{3次元水文地質モデルを構築し、水資源および水災害に関する受託解析を行ってます.水資源環境管理のソリューションを提供します。}
 %\sepspace
 
 
@@ -141,22 +141,21 @@ Tao Lu, Tomohito Yamada, and Tadashi Yamada. "Fundamental Study of Real-time Sho
 \vspace{-0.7\baselineskip}
 \NewPart{スキル}{}
 
-\SkillsEntry{言語}{中　国　語 (母語)}
-\SkillsEntry{}{英　　　語 (流暢)}
-\SkillsEntry{}{日　本　語 (流暢, N1)}
+\SkillsEntry{言語}{中国語 (母語)}
+\SkillsEntry{}{英語 (流暢)}
+\SkillsEntry{}{日本語 (流暢, N1)}
 \SkillsEntry{}{スペイン語 (初心者)}
 
-\SkillsEntry{プログラム}{Python：国土交通省等のデータダウンロードツールの作成経験、}
-\SkillsEntry{}{QGISのプラグイン開発経験(SuperLabeling：4039 ダウンロード)}
-\SkillsEntry{}{\textsc{fortran：}データ処理}
-\SkillsEntry{}{\textsc{html：}\url {https://tao4free.github.io/Hydrology/}}
+\SkillsEntry{プログラム}{\textsc{python: internet worm, QGIS2.0 plugin(SuperLabeling)}}
+\SkillsEntry{}{\textsc{Fortran: data processing}}
+\SkillsEntry{}{\textsc{HTML: \url {https://tao4free.github.io/Hydrology/}}}
 
 
 %%% Experiences
 %%% ------------------------------------------------------------
 \vspace{-0.7\baselineskip}
 \NewPart{ほかの経験}{}
-1. アメリカのUCDavisで1ヶ月短期留学(その間、技術発表の訓練及び実践を行いた)\\
-2. 二回国際学会経験 (International Conference on Hydroinformatics (HIC 2018); ISEWS2018)
+1. Studied UCDavis(California, USA) for one month in 2016.\\
+2. Attended two international conference/symposim (International Conference on Hydroinformatics (HIC 2018); ISEWS2018)
 
 \end{document}

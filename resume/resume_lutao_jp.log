@@ -1,47 +1,56 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Cygwin) (preloaded format=pdflatex 2018.10.10)  19 NOV 2018 17:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017-OpenBSD_Ports) (preloaded format=pdflatex 2017.12.28)  20 NOV 2018 23:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **resume_lutao_jp.tex
 (./resume_lutao_jp.tex
-LaTeX2e <2018-04-01> patch level 2
-Babel <3.18> and hyphenation patterns for 83 language(s) loaded.
-(/usr/share/texmf-dist/tex/latex/koma-script/scrartcl.cls
-Document Class: scrartcl 2018/03/30 v3.25 KOMA-Script document class (article)
-(/usr/share/texmf-dist/tex/latex/koma-script/scrkbase.sty
-Package: scrkbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-dependent b
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/share/texmf-dist/tex/latex/koma-script/scrartcl.cls
+Document Class: scrartcl 2017/04/13 v3.23 KOMA-Script document class (article)
+(/usr/local/share/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2017/04/13 v3.23 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 
-(/usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-independent 
+(/usr/local/share/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2017/04/13 v3.23 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
-(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/share/texmf-dist/tex/latex/koma-script/scrlfile.sty
-Package: scrlfile 2018/03/30 v3.25 KOMA-Script package (loading files)
-)))
-(/usr/share/texmf-dist/tex/latex/koma-script/tocbasic.sty
-Package: tocbasic 2018/03/30 v3.25 KOMA-Script package (handling toc-files)
+(/usr/local/share/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2017/04/13 v3.23 KOMA-Script package (loading files)
+
+Package scrlfile, 2017/04/13 v3.23 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/local/share/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2017/04/13 v3.23 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip41
 \scr@dte@tocline@numbox=\box26
 )
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `toc' on input line 134.
+(tocbasic)             for `toc' on input line 131.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 133.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 134.
 Class scrartcl Info: File `scrsize11pt.clo' used to setup font sizes on input l
-ine 2114.
+ine 2059.
 
-(/usr/share/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
-File: scrsize11pt.clo 2018/03/30 v3.25 KOMA-Script font size class option (11pt
+(/usr/local/share/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2017/04/13 v3.23 KOMA-Script font size class option (11pt
 )
 )
-(/usr/share/texmf-dist/tex/latex/koma-script/typearea.sty
-Package: typearea 2018/03/30 v3.25 KOMA-Script package (type area)
+(/usr/local/share/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2017/04/13 v3.23 KOMA-Script package (type area)
 \ta@bcor=\skip42
-\ta@div=\count80
+\ta@div=\count79
 \ta@hblk=\skip43
 \ta@vblk=\skip44
 \ta@temp=\skip45
@@ -62,81 +71,82 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 11.0pt
 (typearea)              \footskip       = 47.6pt
 (typearea)              \baselineskip   = 13.6pt
-(typearea)              on input line 1706.
+(typearea)              on input line 1647.
 )
-\c@part=\count81
-\c@section=\count82
-\c@subsection=\count83
-\c@subsubsection=\count84
-\c@paragraph=\count85
-\c@subparagraph=\count86
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
 \scr@dte@part@maxnumwidth=\skip47
 \scr@dte@section@maxnumwidth=\skip48
 \scr@dte@subsection@maxnumwidth=\skip49
 \scr@dte@subsubsection@maxnumwidth=\skip50
 \scr@dte@paragraph@maxnumwidth=\skip51
 \scr@dte@subparagraph@maxnumwidth=\skip52
+LaTeX Info: Redefining \textsubscript on input line 4094.
 \abovecaptionskip=\skip53
 \belowcaptionskip=\skip54
 \c@pti@nb@sid@b@x=\box27
-\scr@dte@figure@maxnumwidth=\skip55
-Package tocbasic Info: omitting babel extension for `lof'
-(tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lof' on input line 5439.
-\c@figure=\count87
-\scr@dte@table@maxnumwidth=\skip56
-Package tocbasic Info: omitting babel extension for `lot'
-(tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lot' on input line 5451.
-\c@table=\count88
-Class scrartcl Info: Redefining `\numberline' on input line 5615.
+\c@figure=\count86
+\c@table=\count87
+Class scrartcl Info: Redefining `\numberline' on input line 5233.
 \bibindent=\dimen102
 )
-(/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
+(/usr/local/share/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2016/05/14 v2.6a Micro-typographical refinements (RS)
 \MT@toks=\toks15
-\MT@count=\count89
-LaTeX Info: Redefining \textls on input line 793.
+\MT@count=\count88
+LaTeX Info: Redefining \textls on input line 774.
 \MT@outer@kern=\dimen103
-LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
-\MT@listname@count=\count90
+LaTeX Info: Redefining \textmicrotypecontext on input line 1310.
+\MT@listname@count=\count89
 
-(/usr/share/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
+(/usr/local/share/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2016/05/14 v2.6a Definitions specific to pdftex (RS)
 
-LaTeX Info: Redefining \lsstyle on input line 913.
-LaTeX Info: Redefining \lslig on input line 913.
-\MT@outer@space=\skip57
+LaTeX Info: Redefining \lsstyle on input line 916.
+LaTeX Info: Redefining \lslig on input line 916.
+\MT@outer@space=\skip55
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(/usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
+(/usr/local/share/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
 ))
-(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/local/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+(/usr/local/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
 ))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/share/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/usr/local/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -150,26 +160,52 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 
-(/usr/share/texmf-dist/tex/latex/xcolor/svgnam.def
+(/usr/local/share/texmf-dist/tex/latex/xcolor/svgnam.def
 File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
 ))
-(/usr/share/texmf-dist/tex/latex/url/url.sty
+(/usr/local/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count91
+\Gm@cntv=\count92
+\c@Gm@tempcnt=\count93
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@layoutwidth=\dimen110
+\Gm@layoutheight=\dimen111
+\Gm@layouthoffset=\dimen112
+\Gm@layoutvoffset=\dimen113
+\Gm@dimlist=\toks16
+)
+(/usr/local/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen106
-\WF@size=\dimen107
-\c@WF@wrappedlines=\count91
+(/usr/local/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen114
+\WF@size=\dimen115
+\c@WF@wrappedlines=\count94
 \WF@box=\box28
-\WF@everypar=\toks16
+\WF@everypar=\toks17
 Package: wrapfig 2003/01/31  v 3.6
 )
-(/usr/share/texmf-dist/tex/platex/pxrubrica/pxrubrica.sty
-Package: pxrubrica 2017/11/19 v1.3b PX Japanese-style ruby
-\pxrr@cnta=\count92
-\pxrr@cntr=\count93
-\pxrr@dima=\dimen108
+(/usr/local/share/texmf-dist/tex/platex/pxrubrica/pxrubrica.sty
+Package: pxrubrica 2017/05/05 v1.3a PX Japanese-style ruby
+\pxrr@cnta=\count95
+\pxrr@cntr=\count96
+\pxrr@dima=\dimen116
 \pxrr@boxa=\box29
 \pxrr@boxb=\box30
 \pxrr@boxr=\box31
@@ -178,18 +214,332 @@ Package: pxrubrica 2017/11/19 v1.3b PX Japanese-style ruby
 Package pxrubrica Warning: The engine in use seems to be pdfTeX,
 (pxrubrica)                so safe mode is turned on on input line 553.
 
-) (/usr/share/texmf-dist/tex/latex/bxcjkjatype/bxcjkjatype.sty
+) (/usr/local/share/texmf-dist/tex/latex/bxcjkjatype/bxcjkjatype.sty
 Package: bxcjkjatype 2016/10/15 v0.3
 Package bxcjkjatype Info: Driver auto-detected: pdftex on input line 144.
 
-(/usr/share/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+(/usr/local/share/texmf-dist/tex/latex/cjk/texinput/CJK.sty
 Package: CJK 2015/04/18 4.8.4
 
-(/usr/share/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+(/usr/local/share/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
 Package: MULEenc 2015/04/18 4.8.4
 )
-(/usr/share/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+(/usr/local/share/texmf-dist/tex/latex/cjk/texinput/CJK.enc
 File: CJK.enc 2015/04/18 4.8.4
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box32
+)
+(/usr/local/share/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+Package: CJKutf8 2015/04/18 4.8.4
+
+(/usr/local/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+
+(/usr/local/share/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/local/share/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/local/share/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/local/share/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
 Now handling font encoding C00 ...
 ... no UTF-8 mapping file for font encoding C00
 Now handling font encoding C05 ...
@@ -254,34 +604,30 @@ Now handling font encoding C41 ...
 ... no UTF-8 mapping file for font encoding C41
 Now handling font encoding C62 ...
 ... no UTF-8 mapping file for font encoding C62
-)
-LaTeX Info: Redefining \selectfont on input line 755.
-\CJK@indent=\box32
-)
-(/usr/share/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
-Package: CJKutf8 2015/04/18 4.8.4
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
-(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2018/04/06 v1.3b Input encoding file
-\inpenc@prehook=\toks17
-\inpenc@posthook=\toks18
-)
-(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/local/share/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 ))
-(/usr/share/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+(/usr/local/share/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
 Package: CJKspace 2015/04/18 3.8.0
 )
-(/usr/share/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+(/usr/local/share/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
 Package: CJKpunct 2016/05/14 4.8.4
-\CJKpunct@cnta=\count94
-\CJKpunct@cntb=\count95
-\CJKpunct@cntc=\count96
-\CJKpunct@cntd=\count97
-\CJKpunct@cnte=\count98
+\CJKpunct@cnta=\count97
+\CJKpunct@cntb=\count98
+\CJKpunct@cntc=\count99
+\CJKpunct@cntd=\count100
+\CJKpunct@cnte=\count101
    defining Unicode char U+2018 (decimal 8216)
    defining Unicode char U+2019 (decimal 8217)
    defining Unicode char U+201C (decimal 8220)
@@ -289,99 +635,120 @@ Package: CJKpunct 2016/05/14 4.8.4
    defining Unicode char U+2014 (decimal 8212)
    defining Unicode char U+2026 (decimal 8230)
 
-(/usr/share/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa))
-(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count99
+(/usr/local/share/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa))
+(/usr/local/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count102
 )
-(/usr/share/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+(/usr/local/share/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
 File: UTF8.bdg 2015/04/18 4.8.4
 ))
-(/usr/share/texmf-dist/tex/latex/sectsty/sectsty.sty
+
+Class scrartcl Warning: Usage of package `fancyhdr' together
+(scrartcl)              with a KOMA-Script class is not recommended.
+(scrartcl)              I'd suggest to use 
+(scrartcl)              package `scrlayer-scrpage'.
+(scrartcl)              Nevertheless, using requested
+(scrartcl)              package `fancyhdr' on input line 27.
+
+(/usr/local/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip56
+\f@ncyO@elh=\skip57
+\f@ncyO@erh=\skip58
+\f@ncyO@olh=\skip59
+\f@ncyO@orh=\skip60
+\f@ncyO@elf=\skip61
+\f@ncyO@erf=\skip62
+\f@ncyO@olf=\skip63
+\f@ncyO@orf=\skip64
+)
+(/usr/local/share/texmf-dist/tex/latex/sectsty/sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 )
-\spacebox=\skip58
- (./resume_lutao_jp.aux)
+\spacebox=\skip65
+
+(./resume_lutao_jp.aux)
 \openout1 = `resume_lutao_jp.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Info: Redefining \microtypecontext on input line 84.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Info: Redefining \microtypecontext on input line 88.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -392,125 +759,153 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 
-(/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+(/usr/local/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/local/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count100
-\scratchdimen=\dimen109
+\scratchcounter=\count103
+\scratchdimen=\dimen117
 \scratchbox=\box33
-\nofMPsegments=\count101
-\nofMParguments=\count102
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count103
-\MPscratchDim=\dimen110
-\MPnumerator=\count104
-\makeMPintoPDFobject=\count105
-\everyMPtoPDFconversion=\toks20
-) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen118
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks21
+) (/usr/local/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
-(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)))
-(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-(/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
+(/usr/local/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-(/usr/share/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.6271pt, 418.25372pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.53027pt, 152.11002pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=418.25372pt
+* \textheight=903.3783pt
+* \oddsidemargin=17.35712pt
+* \evensidemargin=17.35712pt
+* \topmargin=-8.26335pt
+* \headheight=0.0pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=47.6pt
+* \marginparwidth=59.7508pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/share/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
 File: UTF8.enc 2015/04/18 4.8.4
 )
-(/usr/share/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+(/usr/local/share/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
 File: UTF8.chr 2015/04/18 4.8.4
 )
 <./photo.jpg, id=1, 614.295pt x 721.69624pt>
 File: ./photo.jpg Graphic file (type jpg)
-<use ./photo.jpg>
-Package pdftex.def Info: ./photo.jpg  used on input line 88.
-(pdftex.def)             Requested size: 62.73578pt x 73.69353pt.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 93.
+ <use ./photo.jpg>
+Package pdftex.def Info: ./photo.jpg used on input line 92.
+(pdftex.def)             Requested size: 62.7355pt x 73.69353pt.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 97.
 
-(/usr/share/texmf-dist/tex/latex/psnfss/ot1phv.fd
+(/usr/local/share/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
-Package microtype Info: Loading generic protrusion settings for font family
+Package microtype Info: Loading generic settings for font family
 (microtype)             `phv' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `C70/mc/b/n'
 (Font)              in size <24.88> not available.
 (Font)              Font shape `C70/mc/bx/n'
-(Font)              tried instead on input line 93.
+(Font)              tried instead on input line 97.
 LaTeX Font Info:    Font shape `C70/mc/bx/n'
 (Font)              in size <24.88> not available.
 (Font)              Font shape `C70/gt/m/n'
-(Font)              tried instead on input line 93.
+(Font)              tried instead on input line 97.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 24.88pt on input line 93.
+(Font)              scaled to size 24.88pt on input line 97.
 LaTeX Font Info:    Font shape `C70/mc/b/n'
 (Font)              in size <12.44> not available.
 (Font)              Font shape `C70/mc/bx/n'
-(Font)              tried instead on input line 93.
+(Font)              tried instead on input line 97.
 LaTeX Font Info:    Font shape `C70/mc/bx/n'
 (Font)              in size <12.44> not available.
 (Font)              Font shape `C70/gt/m/n'
-(Font)              tried instead on input line 93.
+(Font)              tried instead on input line 97.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 12.44pt on input line 93.
+(Font)              scaled to size 12.44pt on input line 97.
 Package CJKpunct Info: punctuation spaces for family 'mc' do not exist. Use fam
-ily 'def' instead. on input line 93.
+ily 'def' instead. on input line 97.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <17.28> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 94.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 98.
 LaTeX Font Info:    Font shape `C70/mc/m/it'
 (Font)              in size <17.28> not available.
 (Font)              Font shape `C70/mc/m/n'
-(Font)              tried instead on input line 94.
+(Font)              tried instead on input line 98.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 17.28pt on input line 94.
+(Font)              scaled to size 17.28pt on input line 98.
 
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
@@ -518,19 +913,35 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 100.
+ne 105.
 
-Package microtype Info: Loading generic protrusion settings for font family
+Package microtype Info: Loading generic settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `C70/gt/b/n'
+(Font)              in size <14.4> not available.
+(Font)              Font shape `C70/gt/bx/n'
+(Font)              tried instead on input line 105.
+LaTeX Font Info:    Font shape `C70/gt/bx/n'
+(Font)              in size <14.4> not available.
+(Font)              Font shape `C70/gt/m/n'
+(Font)              tried instead on input line 105.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 14.4pt on input line 105.
+LaTeX Font Info:    Font shape `C70/mc/m/it'
+(Font)              in size <10.95> not available.
+(Font)              Font shape `C70/mc/m/n'
+(Font)              tried instead on input line 107.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 10.95pt on input line 107.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 102.
+(Font)              <10.95> on input line 107.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 102.
+(Font)              <8> on input line 107.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 102.
-Package microtype Info: Loading generic protrusion settings for font family
+(Font)              <6> on input line 107.
+Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
@@ -540,7 +951,23 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 110.
+ne 116.
+
+LaTeX Font Info:    Font shape `C70/mc/bx/n'
+(Font)              in size <10.95> not available.
+(Font)              Font shape `C70/gt/m/n'
+(Font)              tried instead on input line 118.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 10.95pt on input line 118.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 10.0pt on input line 118.
+
+Class scrartcl Warning: incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 127.
 
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
@@ -548,7 +975,7 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 119.
+ne 133.
 
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
@@ -556,54 +983,110 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 124.
+ne 142.
 
+Package CJKpunct Info: punctuation spaces for family 'gt' do not exist. Use fam
+ily 'def' instead. on input line 142.
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 132.
+ne 158.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./photo.jpg>]
-
-Class scrartcl Warning: incompatible usage of \@ssect detected.
-(scrartcl)              You've used the KOMA-Script implementation of \@ssect
-(scrartcl)              from within a non compatible caller, that does not
-(scrartcl)              \scr@s@ct@@nn@m@ locally.
-(scrartcl)              This could result in several error messages on input li
-ne 146.
-
-[2] (./resume_lutao_jp.aux) )
+{/usr/local/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./photo.jpg>] 
+(./resume_lutao_jp.aux) )
 (\end occurred when \iffalse on line 540 was incomplete) 
 Here is how much of TeX's memory you used:
- 9083 strings out of 492658
- 145508 string characters out of 6136196
- 357231 words of memory out of 5000000
- 12783 multiletter control sequences out of 15000+600000
- 16554 words of font info for 57 fonts, out of 8000000 for 9000
+ 11068 strings out of 492995
+ 174206 string characters out of 6135929
+ 369930 words of memory out of 5000000
+ 14192 multiletter control sequences out of 15000+600000
+ 42366 words of font info for 157 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,6n,51p,9101b,387s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/
-fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
-></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb></usr/share/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/
-ipxg-r-u30.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u6d
-.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u76.pfb></usr
-/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5c.pfb></usr/share/tex
-mf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u66.pfb></usr/share/texmf-dist/fo
-nts/type1/public/ipaex-type1/ipxm-r-u6b.pfb></usr/share/texmf-dist/fonts/type1/
-urw/helvetic/uhvb8a.pfb>
-Output written on resume_lutao_jp.pdf (2 pages, 231717 bytes).
+ 48i,7n,51p,8826b,387s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/share/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/share/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/share/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmtt10.pfb></usr/local/share/texmf-dist/fonts/type1/public
+/ipaex-type1/ipxg-r-u30.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipa
+ex-type1/ipxg-r-u4e.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-t
+ype1/ipxg-r-u4f.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1
+/ipxg-r-u50.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipx
+g-r-u53.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-
+u58.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5b.
+pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5c.pfb>
+</usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5d.pfb></us
+r/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5e.pfb></usr/lo
+cal/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u60.pfb></usr/local/
+share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u65.pfb></usr/local/shar
+e/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u69.pfb></usr/local/share/te
+xmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u6b.pfb></usr/local/share/texmf-
+dist/fonts/type1/public/ipaex-type1/ipxg-r-u6c.pfb></usr/local/share/texmf-dist
+/fonts/type1/public/ipaex-type1/ipxg-r-u6d.pfb></usr/local/share/texmf-dist/fon
+ts/type1/public/ipaex-type1/ipxg-r-u6e.pfb></usr/local/share/texmf-dist/fonts/t
+ype1/public/ipaex-type1/ipxg-r-u74.pfb></usr/local/share/texmf-dist/fonts/type1
+/public/ipaex-type1/ipxg-r-u76.pfb></usr/local/share/texmf-dist/fonts/type1/pub
+lic/ipaex-type1/ipxg-r-u7d.pfb></usr/local/share/texmf-dist/fonts/type1/public/
+ipaex-type1/ipxg-r-u80.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipae
+x-type1/ipxg-r-u8a.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-ty
+pe1/ipxg-r-u8d.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/
+ipxg-r-u90.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg
+-r-u9a.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u
+30.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u4e.p
+fb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u4f.pfb><
+/usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u51.pfb></usr
+/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u52.pfb></usr/loc
+al/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u53.pfb></usr/local/s
+hare/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u54.pfb></usr/local/share
+/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u56.pfb></usr/local/share/tex
+mf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u57.pfb></usr/local/share/texmf-d
+ist/fonts/type1/public/ipaex-type1/ipxm-r-u58.pfb></usr/local/share/texmf-dist/
+fonts/type1/public/ipaex-type1/ipxm-r-u59.pfb></usr/local/share/texmf-dist/font
+s/type1/public/ipaex-type1/ipxm-r-u5b.pfb></usr/local/share/texmf-dist/fonts/ty
+pe1/public/ipaex-type1/ipxm-r-u5c.pfb></usr/local/share/texmf-dist/fonts/type1/
+public/ipaex-type1/ipxm-r-u5d.pfb></usr/local/share/texmf-dist/fonts/type1/publ
+ic/ipaex-type1/ipxm-r-u5e.pfb></usr/local/share/texmf-dist/fonts/type1/public/i
+paex-type1/ipxm-r-u5f.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex
+-type1/ipxm-r-u62.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-typ
+e1/ipxm-r-u63.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/i
+pxm-r-u64.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-
+r-u65.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6
+6.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u67.pf
+b></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u68.pfb></
+usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u69.pfb></usr/
+local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6a.pfb></usr/loca
+l/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6b.pfb></usr/local/sh
+are/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6c.pfb></usr/local/share/
+texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6d.pfb></usr/local/share/texm
+f-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6e.pfb></usr/local/share/texmf-di
+st/fonts/type1/public/ipaex-type1/ipxm-r-u70.pfb></usr/local/share/texmf-dist/f
+onts/type1/public/ipaex-type1/ipxm-r-u74.pfb></usr/local/share/texmf-dist/fonts
+/type1/public/ipaex-type1/ipxm-r-u75.pfb></usr/local/share/texmf-dist/fonts/typ
+e1/public/ipaex-type1/ipxm-r-u76.pfb></usr/local/share/texmf-dist/fonts/type1/p
+ublic/ipaex-type1/ipxm-r-u77.pfb></usr/local/share/texmf-dist/fonts/type1/publi
+c/ipaex-type1/ipxm-r-u79.pfb></usr/local/share/texmf-dist/fonts/type1/public/ip
+aex-type1/ipxm-r-u7b.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-
+type1/ipxm-r-u7d.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type
+1/ipxm-r-u80.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ip
+xm-r-u81.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r
+-u82.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u88
+.pfb></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u89.pfb
+></usr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8a.pfb></u
+sr/local/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8c.pfb></usr/l
+ocal/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8d.pfb></usr/local
+/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u90.pfb></usr/local/sha
+re/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u95.pfb></usr/local/share/t
+exmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u96.pfb></usr/local/share/texmf
+-dist/fonts/type1/public/ipaex-type1/ipxm-r-u9a.pfb></usr/local/share/texmf-dis
+t/fonts/type1/public/ipaex-type1/ipxm-r-uff.pfb>
+Output written on resume_lutao_jp.pdf (1 page, 538582 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 375 PDF objects out of 1000 (max. 8388607)
+ 238 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 16926 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 16598 words of extra memory for PDF output out of 17280 (max. 10000000)
 
