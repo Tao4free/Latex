@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Cygwin) (preloaded format=pdflatex 2018.10.10)  28 JAN 2019 11:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Cygwin) (preloaded format=pdflatex 2018.10.10)  28 JAN 2019 10:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**resume_lutao_jp.tex
-(./resume_lutao_jp.tex
+**resume_lutao_jp_cisco.tex
+(./resume_lutao_jp_cisco.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 83 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/koma-script/scrartcl.cls
@@ -353,8 +353,8 @@ les
 )
 \spacebox=\skip67
 
-No file resume_lutao_jp.aux.
-\openout1 = `resume_lutao_jp.aux'.
+No file resume_lutao_jp_cisco.aux.
+\openout1 = `resume_lutao_jp_cisco.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
 LaTeX Font Info:    ... okay on input line 88.
@@ -687,16 +687,16 @@ ne 158.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./photo.jpg>]
-(./resume_lutao_jp.aux) )
+(./resume_lutao_jp_cisco.aux) )
 (\end occurred when \iffalse on line 540 was incomplete) 
 Here is how much of TeX's memory you used:
- 10814 strings out of 492658
- 173591 string characters out of 6136196
- 379731 words of memory out of 5000000
- 14281 multiletter control sequences out of 15000+600000
- 42366 words of font info for 157 fonts, out of 8000000 for 9000
+ 10813 strings out of 492658
+ 173617 string characters out of 6136196
+ 379737 words of memory out of 5000000
+ 14278 multiletter control sequences out of 15000+600000
+ 42104 words of font info for 156 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,7n,51p,9101b,387s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 51i,7n,51p,9107b,387s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
@@ -743,30 +743,30 @@ pe1/public/ipaex-type1/ipxm-r-u65.pfb></usr/share/texmf-dist/fonts/type1/public
 /ipaex-type1/ipxm-r-u66.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-typ
 e1/ipxm-r-u67.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-
 u68.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u69.pfb></
-usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6a.pfb></usr/share/
-texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6b.pfb></usr/share/texmf-dist
-/fonts/type1/public/ipaex-type1/ipxm-r-u6c.pfb></usr/share/texmf-dist/fonts/typ
-e1/public/ipaex-type1/ipxm-r-u6d.pfb></usr/share/texmf-dist/fonts/type1/public/
-ipaex-type1/ipxm-r-u6e.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type
-1/ipxm-r-u70.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u
-74.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u75.pfb></u
-sr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u76.pfb></usr/share/t
-exmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u77.pfb></usr/share/texmf-dist/
-fonts/type1/public/ipaex-type1/ipxm-r-u79.pfb></usr/share/texmf-dist/fonts/type
-1/public/ipaex-type1/ipxm-r-u7b.pfb></usr/share/texmf-dist/fonts/type1/public/i
-paex-type1/ipxm-r-u7d.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1
-/ipxm-r-u80.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8
-1.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u82.pfb></us
-r/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u88.pfb></usr/share/te
-xmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u89.pfb></usr/share/texmf-dist/f
-onts/type1/public/ipaex-type1/ipxm-r-u8a.pfb></usr/share/texmf-dist/fonts/type1
-/public/ipaex-type1/ipxm-r-u8c.pfb></usr/share/texmf-dist/fonts/type1/public/ip
-aex-type1/ipxm-r-u8d.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/
-ipxm-r-u90.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u95
-.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u96.pfb></usr
+usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6b.pfb></usr/share/
+texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6c.pfb></usr/share/texmf-dist
+/fonts/type1/public/ipaex-type1/ipxm-r-u6d.pfb></usr/share/texmf-dist/fonts/typ
+e1/public/ipaex-type1/ipxm-r-u6e.pfb></usr/share/texmf-dist/fonts/type1/public/
+ipaex-type1/ipxm-r-u70.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type
+1/ipxm-r-u74.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u
+75.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u76.pfb></u
+sr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u77.pfb></usr/share/t
+exmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u79.pfb></usr/share/texmf-dist/
+fonts/type1/public/ipaex-type1/ipxm-r-u7b.pfb></usr/share/texmf-dist/fonts/type
+1/public/ipaex-type1/ipxm-r-u7d.pfb></usr/share/texmf-dist/fonts/type1/public/i
+paex-type1/ipxm-r-u80.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1
+/ipxm-r-u81.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8
+2.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u88.pfb></us
+r/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u89.pfb></usr/share/te
+xmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8a.pfb></usr/share/texmf-dist/f
+onts/type1/public/ipaex-type1/ipxm-r-u8c.pfb></usr/share/texmf-dist/fonts/type1
+/public/ipaex-type1/ipxm-r-u8d.pfb></usr/share/texmf-dist/fonts/type1/public/ip
+aex-type1/ipxm-r-u90.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/
+ipxm-r-u95.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u96
+.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u99.pfb></usr
 /share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u9a.pfb></usr/share/tex
 mf-dist/fonts/type1/public/ipaex-type1/ipxm-r-uff.pfb>
-Output written on resume_lutao_jp.pdf (1 page, 538574 bytes).
+Output written on resume_lutao_jp_cisco.pdf (1 page, 536273 bytes).
 PDF statistics:
  375 PDF objects out of 1000 (max. 8388607)
  238 compressed objects within 3 object streams

@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Cygwin) (preloaded format=pdflatex 2018.10.10)  28 JAN 2019 11:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Cygwin) (preloaded format=pdflatex 2018.10.10)  28 JAN 2019 13:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**resume_lutao_jp.tex
-(./resume_lutao_jp.tex
+**resume_lutao_jp_cisco2.tex
+(./resume_lutao_jp_cisco2.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 83 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/koma-script/scrartcl.cls
@@ -31,13 +31,11 @@ Package: tocbasic 2018/03/30 v3.25 KOMA-Script package (handling toc-files)
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `toc' on input line 134.
-Class scrartcl Info: File `scrsize11pt.clo' used to setup font sizes on input l
-ine 2114.
 
-(/usr/share/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
-File: scrsize11pt.clo 2018/03/30 v3.25 KOMA-Script font size class option (11pt
-)
-)
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 2114.
+
 (/usr/share/texmf-dist/tex/latex/koma-script/typearea.sty
 Package: typearea 2018/03/30 v3.25 KOMA-Script package (type area)
 \ta@bcor=\skip42
@@ -46,22 +44,29 @@ Package: typearea 2018/03/30 v3.25 KOMA-Script package (type area)
 \ta@vblk=\skip44
 \ta@temp=\skip45
 \footheight=\skip46
+
+
+Package typearea Warning: DIV for 10.5pt and used papersize
+(typearea)                not defined!
+(typearea)                Using DIV=calc.
+
+DIV calculation for typearea with good linewidth.
 Package typearea Info: These are the values describing the layout:
-(typearea)             DIV  = 10
+(typearea)             DIV  = 8
 (typearea)             BCOR = 0.0pt
 (typearea)             \paperwidth      = 597.50793pt
-(typearea)              \textwidth      = 418.25555pt
-(typearea)              DIV departure   = -6%
-(typearea)              \evensidemargin = 17.3562pt
-(typearea)              \oddsidemargin  = 17.3562pt
+(typearea)              \textwidth      = 373.44246pt
+(typearea)              DIV departure   = 0%
+(typearea)              \evensidemargin = 39.76274pt
+(typearea)              \oddsidemargin  = 39.76274pt
 (typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 595.80026pt
-(typearea)              \topmargin      = -25.16531pt
-(typearea)              \headheight     = 17.0pt
-(typearea)              \headsep        = 20.40001pt
-(typearea)              \topskip        = 11.0pt
-(typearea)              \footskip       = 47.6pt
-(typearea)              \baselineskip   = 13.6pt
+(typearea)              \textheight     = 539.69833pt
+(typearea)              \topmargin      = -1.289pt
+(typearea)              \headheight     = 15.74994pt
+(typearea)              \headsep        = 18.89993pt
+(typearea)              \topskip        = 10.5pt
+(typearea)              \footskip       = 44.09984pt
+(typearea)              \baselineskip   = 12.59996pt
 (typearea)              on input line 1706.
 )
 \c@part=\count81
@@ -91,8 +96,7 @@ Package tocbasic Info: omitting babel extension for `lot'
 \c@table=\count88
 Class scrartcl Info: Redefining `\numberline' on input line 5615.
 \bibindent=\dimen102
-)
-(/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
+) (/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
 \MT@toks=\toks15
 \MT@count=\count89
@@ -353,86 +357,86 @@ les
 )
 \spacebox=\skip67
 
-No file resume_lutao_jp.aux.
-\openout1 = `resume_lutao_jp.aux'.
+(./resume_lutao_jp_cisco2.aux)
+\openout1 = `resume_lutao_jp_cisco2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Info: Redefining \microtypecontext on input line 88.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Info: Redefining \microtypecontext on input line 90.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -442,6 +446,7 @@ Package microtype Info: Using default expansion set `basictext'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
+
 (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
@@ -527,17 +532,17 @@ e
 * \textheight=903.3783pt
 * \oddsidemargin=17.35712pt
 * \evensidemargin=17.35712pt
-* \topmargin=-8.26335pt
+* \topmargin=-5.51321pt
 * \headheight=0.0pt
-* \headsep=20.40001pt
-* \topskip=11.0pt
-* \footskip=47.6pt
-* \marginparwidth=59.7508pt
+* \headsep=5.0pt
+* \topskip=10.5pt
+* \footskip=44.09984pt
+* \marginparwidth=74.68849pt
 * \marginparsep=12.8401pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.44997pt plus 4.19952pt minus 2.10043pt
 * \hoffset=0.0pt
-* \voffset=0.0pt
+* \voffset=-21.68121pt
 * \mag=1000
 * \@twocolumnfalse
 * \@twosidefalse
@@ -554,10 +559,14 @@ File: UTF8.chr 2015/04/18 4.8.4
 <./photo.jpg, id=1, 614.295pt x 721.69624pt>
 File: ./photo.jpg Graphic file (type jpg)
 <use ./photo.jpg>
-Package pdftex.def Info: ./photo.jpg  used on input line 92.
+Package pdftex.def Info: ./photo.jpg  used on input line 94.
 (pdftex.def)             Requested size: 62.7355pt x 73.69353pt.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 97.
 
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <26.12407> not available
+(Font)              size <24.88> substituted on input line 99.
+
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 99.
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
@@ -566,70 +575,94 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `C70/mc/b/n'
-(Font)              in size <24.88> not available.
+(Font)              in size <13.06203> not available.
 (Font)              Font shape `C70/mc/bx/n'
-(Font)              tried instead on input line 97.
+(Font)              tried instead on input line 99.
 LaTeX Font Info:    Font shape `C70/mc/bx/n'
-(Font)              in size <24.88> not available.
+(Font)              in size <13.06203> not available.
 (Font)              Font shape `C70/gt/m/n'
-(Font)              tried instead on input line 97.
+(Font)              tried instead on input line 99.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 24.88pt on input line 97.
-LaTeX Font Info:    Font shape `C70/mc/b/n'
-(Font)              in size <12.44> not available.
-(Font)              Font shape `C70/mc/bx/n'
-(Font)              tried instead on input line 97.
-LaTeX Font Info:    Font shape `C70/mc/bx/n'
-(Font)              in size <12.44> not available.
-(Font)              Font shape `C70/gt/m/n'
-(Font)              tried instead on input line 97.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 12.44pt on input line 97.
+(Font)              scaled to size 13.06203pt on input line 99.
 Package CJKpunct Info: punctuation spaces for family 'mc' do not exist. Use fam
-ily 'def' instead. on input line 97.
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <17.28> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 98.
-LaTeX Font Info:    Font shape `C70/mc/m/it'
-(Font)              in size <17.28> not available.
-(Font)              Font shape `C70/mc/m/n'
-(Font)              tried instead on input line 98.
-LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 17.28pt on input line 98.
+ily 'def' instead. on input line 99.
 
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <18.14397> not available
+(Font)              size <17.28> substituted on input line 100.
+
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <18.14397> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 100.
+LaTeX Font Info:    Font shape `C70/mc/m/it'
+(Font)              in size <18.14397> not available.
+(Font)              Font shape `C70/mc/m/n'
+(Font)              tried instead on input line 100.
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 18.14397pt on input line 100.
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 105.
+ne 107.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15.12003> not available
+(Font)              size <14.4> substituted on input line 107.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <15.12003> not available
+(Font)              size <14.4> substituted on input line 107.
 
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <15.12003> not available
+
+(Font)              size <14.4> substituted on input line 107.
+
 LaTeX Font Info:    Font shape `C70/gt/b/n'
-(Font)              in size <14.4> not available.
+(Font)              in size <15.12003> not available.
 (Font)              Font shape `C70/gt/bx/n'
-(Font)              tried instead on input line 105.
-LaTeX Font Info:    Font shape `C70/gt/bx/n'
-(Font)              in size <14.4> not available.
-(Font)              Font shape `C70/gt/m/n'
-(Font)              tried instead on input line 105.
-LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 14.4pt on input line 105.
-LaTeX Font Info:    Font shape `C70/mc/m/it'
-(Font)              in size <10.95> not available.
-(Font)              Font shape `C70/mc/m/n'
 (Font)              tried instead on input line 107.
+LaTeX Font Info:    Font shape `C70/gt/bx/n'
+(Font)              in size <15.12003> not available.
+(Font)              Font shape `C70/gt/m/n'
+(Font)              tried instead on input line 107.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 15.12003pt on input line 107.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/it' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 109.
+
+LaTeX Font Info:    Font shape `C70/mc/m/it'
+(Font)              in size <10.5> not available.
+(Font)              Font shape `C70/mc/m/n'
+(Font)              tried instead on input line 109.
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 10.95pt on input line 107.
+(Font)              scaled to size 10.5pt on input line 109.
+LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 109.
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 109.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 109.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 107.
+(Font)              <10.5> on input line 109.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 107.
+(Font)              <7.34996> on input line 109.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 107.
+(Font)              <5.25> on input line 109.
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 113.
+
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -640,31 +673,31 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 116.
+ne 118.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 120.
 
 LaTeX Font Info:    Font shape `C70/mc/bx/n'
-(Font)              in size <10.95> not available.
+(Font)              in size <10.5> not available.
 (Font)              Font shape `C70/gt/m/n'
-(Font)              tried instead on input line 118.
+(Font)              tried instead on input line 120.
 LaTeX Font Info:    Font shape `C70/gt/m/n' will be
-(Font)              scaled to size 10.95pt on input line 118.
+(Font)              scaled to size 10.5pt on input line 120.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <9.58131> not available
+(Font)              size <10> substituted on input line 120.
+
 LaTeX Font Info:    Font shape `C70/mc/m/n' will be
-(Font)              scaled to size 10.0pt on input line 118.
+(Font)              scaled to size 9.58131pt on input line 120.
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 127.
-
-
-Class scrartcl Warning: incompatible usage of \@ssect detected.
-(scrartcl)              You've used the KOMA-Script implementation of \@ssect
-(scrartcl)              from within a non compatible caller, that does not
-(scrartcl)              \scr@s@ct@@nn@m@ locally.
-(scrartcl)              This could result in several error messages on input li
-ne 133.
+ne 129.
 
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
@@ -672,104 +705,146 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 142.
+ne 135.
+
+
+Class scrartcl Warning: incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 144.
 
 Package CJKpunct Info: punctuation spaces for family 'gt' do not exist. Use fam
-ily 'def' instead. on input line 142.
+ily 'def' instead. on input line 144.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/sc' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 153.
+
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 158.
+ne 160.
+
+
+Overfull \hbox (8.52478pt too wide) in paragraph at lines 161--163
+\OT1/cmr/m/n/10.95 (-20) 2. 2\C70/mc/m/n/10.5 Þ ý \C70/mc/m/n/10.5/96 › \C70/mc
+/m/n/10.5 f \C70/mc/m/n/10.5 ^^Z \C70/mc/m/n/10.5/7d L \C70/mc/m/n/10.5/9a ^^S 
+\OT1/cmr/m/n/10.95 (-20) (In-ter-na-tional Con-fer-ence on Hy-droin-for-mat-ics
+ (HIC 2016); ISEWS2018) 
+ []
+
+
+Class scrartcl Warning: incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 167.
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./photo.jpg>]
-(./resume_lutao_jp.aux) )
+(./resume_lutao_jp_cisco2.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.24406pt have occurred.
+
+ )
 (\end occurred when \iffalse on line 540 was incomplete) 
 Here is how much of TeX's memory you used:
- 10814 strings out of 492658
- 173591 string characters out of 6136196
- 379731 words of memory out of 5000000
- 14281 multiletter control sequences out of 15000+600000
- 42366 words of font info for 157 fonts, out of 8000000 for 9000
+ 11003 strings out of 492658
+ 177162 string characters out of 6136196
+ 386744 words of memory out of 5000000
+ 14454 multiletter control sequences out of 15000+600000
+ 46017 words of font info for 164 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,7n,51p,9101b,387s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u30.
-pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u4e.pfb></usr/
-share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u4f.pfb></usr/share/texm
-f-dist/fonts/type1/public/ipaex-type1/ipxg-r-u50.pfb></usr/share/texmf-dist/fon
-ts/type1/public/ipaex-type1/ipxg-r-u53.pfb></usr/share/texmf-dist/fonts/type1/p
-ublic/ipaex-type1/ipxg-r-u58.pfb></usr/share/texmf-dist/fonts/type1/public/ipae
-x-type1/ipxg-r-u5b.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ip
-xg-r-u5c.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5d.p
-fb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5e.pfb></usr/s
-hare/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u60.pfb></usr/share/texmf
--dist/fonts/type1/public/ipaex-type1/ipxg-r-u65.pfb></usr/share/texmf-dist/font
-s/type1/public/ipaex-type1/ipxg-r-u69.pfb></usr/share/texmf-dist/fonts/type1/pu
-blic/ipaex-type1/ipxg-r-u6b.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex
--type1/ipxg-r-u6c.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipx
-g-r-u6d.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u6e.pf
-b></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u74.pfb></usr/sh
-are/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u76.pfb></usr/share/texmf-
-dist/fonts/type1/public/ipaex-type1/ipxg-r-u7d.pfb></usr/share/texmf-dist/fonts
-/type1/public/ipaex-type1/ipxg-r-u80.pfb></usr/share/texmf-dist/fonts/type1/pub
-lic/ipaex-type1/ipxg-r-u8a.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-
-type1/ipxg-r-u8d.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg
--r-u90.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u9a.pfb
-></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u30.pfb></usr/sha
-re/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u4e.pfb></usr/share/texmf-d
-ist/fonts/type1/public/ipaex-type1/ipxm-r-u4f.pfb></usr/share/texmf-dist/fonts/
-type1/public/ipaex-type1/ipxm-r-u51.pfb></usr/share/texmf-dist/fonts/type1/publ
-ic/ipaex-type1/ipxm-r-u52.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-t
-ype1/ipxm-r-u53.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-
-r-u54.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u56.pfb>
-</usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u57.pfb></usr/shar
-e/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u58.pfb></usr/share/texmf-di
-st/fonts/type1/public/ipaex-type1/ipxm-r-u59.pfb></usr/share/texmf-dist/fonts/t
-ype1/public/ipaex-type1/ipxm-r-u5b.pfb></usr/share/texmf-dist/fonts/type1/publi
-c/ipaex-type1/ipxm-r-u5c.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-ty
-pe1/ipxm-r-u5d.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r
--u5e.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5f.pfb><
-/usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u62.pfb></usr/share
-/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u63.pfb></usr/share/texmf-dis
-t/fonts/type1/public/ipaex-type1/ipxm-r-u64.pfb></usr/share/texmf-dist/fonts/ty
-pe1/public/ipaex-type1/ipxm-r-u65.pfb></usr/share/texmf-dist/fonts/type1/public
-/ipaex-type1/ipxm-r-u66.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-typ
-e1/ipxm-r-u67.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-
-u68.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u69.pfb></
-usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6a.pfb></usr/share/
-texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6b.pfb></usr/share/texmf-dist
-/fonts/type1/public/ipaex-type1/ipxm-r-u6c.pfb></usr/share/texmf-dist/fonts/typ
-e1/public/ipaex-type1/ipxm-r-u6d.pfb></usr/share/texmf-dist/fonts/type1/public/
-ipaex-type1/ipxm-r-u6e.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type
-1/ipxm-r-u70.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u
-74.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u75.pfb></u
-sr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u76.pfb></usr/share/t
-exmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u77.pfb></usr/share/texmf-dist/
-fonts/type1/public/ipaex-type1/ipxm-r-u79.pfb></usr/share/texmf-dist/fonts/type
-1/public/ipaex-type1/ipxm-r-u7b.pfb></usr/share/texmf-dist/fonts/type1/public/i
-paex-type1/ipxm-r-u7d.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1
-/ipxm-r-u80.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8
-1.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u82.pfb></us
-r/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u88.pfb></usr/share/te
-xmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u89.pfb></usr/share/texmf-dist/f
-onts/type1/public/ipaex-type1/ipxm-r-u8a.pfb></usr/share/texmf-dist/fonts/type1
-/public/ipaex-type1/ipxm-r-u8c.pfb></usr/share/texmf-dist/fonts/type1/public/ip
-aex-type1/ipxm-r-u8d.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/
-ipxm-r-u90.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u95
-.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u96.pfb></usr
-/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u9a.pfb></usr/share/tex
-mf-dist/fonts/type1/public/ipaex-type1/ipxm-r-uff.pfb>
-Output written on resume_lutao_jp.pdf (1 page, 538574 bytes).
+ 51i,7n,51p,9108b,387s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/
+fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/te
+xmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u30.pfb></usr/share/texmf-dist/f
+onts/type1/public/ipaex-type1/ipxg-r-u4e.pfb></usr/share/texmf-dist/fonts/type1
+/public/ipaex-type1/ipxg-r-u4f.pfb></usr/share/texmf-dist/fonts/type1/public/ip
+aex-type1/ipxg-r-u50.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/
+ipxg-r-u53.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u58
+.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5b.pfb></usr
+/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5c.pfb></usr/share/tex
+mf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u5d.pfb></usr/share/texmf-dist/fo
+nts/type1/public/ipaex-type1/ipxg-r-u5e.pfb></usr/share/texmf-dist/fonts/type1/
+public/ipaex-type1/ipxg-r-u5f.pfb></usr/share/texmf-dist/fonts/type1/public/ipa
+ex-type1/ipxg-r-u60.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/i
+pxg-r-u65.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u67.
+pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u69.pfb></usr/
+share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u6b.pfb></usr/share/texm
+f-dist/fonts/type1/public/ipaex-type1/ipxg-r-u6c.pfb></usr/share/texmf-dist/fon
+ts/type1/public/ipaex-type1/ipxg-r-u6d.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/ipaex-type1/ipxg-r-u6e.pfb></usr/share/texmf-dist/fonts/type1/public/ipae
+x-type1/ipxg-r-u74.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ip
+xg-r-u7d.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u80.p
+fb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u8a.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/ipaex-type1/ipxg-r-u8d.pfb></usr/share/texmf
+-dist/fonts/type1/public/ipaex-type1/ipxg-r-u90.pfb></usr/share/texmf-dist/font
+s/type1/public/ipaex-type1/ipxg-r-u9a.pfb></usr/share/texmf-dist/fonts/type1/pu
+blic/ipaex-type1/ipxm-r-u30.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex
+-type1/ipxm-r-u4e.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipx
+m-r-u4f.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u51.pf
+b></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u52.pfb></usr/sh
+are/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u53.pfb></usr/share/texmf-
+dist/fonts/type1/public/ipaex-type1/ipxm-r-u54.pfb></usr/share/texmf-dist/fonts
+/type1/public/ipaex-type1/ipxm-r-u55.pfb></usr/share/texmf-dist/fonts/type1/pub
+lic/ipaex-type1/ipxm-r-u56.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-
+type1/ipxm-r-u57.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm
+-r-u58.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u59.pfb
+></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5b.pfb></usr/sha
+re/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5c.pfb></usr/share/texmf-d
+ist/fonts/type1/public/ipaex-type1/ipxm-r-u5d.pfb></usr/share/texmf-dist/fonts/
+type1/public/ipaex-type1/ipxm-r-u5e.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/ipaex-type1/ipxm-r-u5f.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-t
+ype1/ipxm-r-u62.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-
+r-u63.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u64.pfb>
+</usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u65.pfb></usr/shar
+e/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u66.pfb></usr/share/texmf-di
+st/fonts/type1/public/ipaex-type1/ipxm-r-u67.pfb></usr/share/texmf-dist/fonts/t
+ype1/public/ipaex-type1/ipxm-r-u68.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/ipaex-type1/ipxm-r-u69.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-ty
+pe1/ipxm-r-u6b.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r
+-u6c.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6d.pfb><
+/usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u6e.pfb></usr/share
+/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u70.pfb></usr/share/texmf-dis
+t/fonts/type1/public/ipaex-type1/ipxm-r-u74.pfb></usr/share/texmf-dist/fonts/ty
+pe1/public/ipaex-type1/ipxm-r-u75.pfb></usr/share/texmf-dist/fonts/type1/public
+/ipaex-type1/ipxm-r-u76.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-typ
+e1/ipxm-r-u77.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-
+u78.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u79.pfb></
+usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7a.pfb></usr/share/
+texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7b.pfb></usr/share/texmf-dist
+/fonts/type1/public/ipaex-type1/ipxm-r-u7d.pfb></usr/share/texmf-dist/fonts/typ
+e1/public/ipaex-type1/ipxm-r-u80.pfb></usr/share/texmf-dist/fonts/type1/public/
+ipaex-type1/ipxm-r-u82.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type
+1/ipxm-r-u88.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u
+89.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8a.pfb></u
+sr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8c.pfb></usr/share/t
+exmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u8d.pfb></usr/share/texmf-dist/
+fonts/type1/public/ipaex-type1/ipxm-r-u8e.pfb></usr/share/texmf-dist/fonts/type
+1/public/ipaex-type1/ipxm-r-u90.pfb></usr/share/texmf-dist/fonts/type1/public/i
+paex-type1/ipxm-r-u91.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1
+/ipxm-r-u92.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u9
+3.pfb></usr/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u95.pfb></us
+r/share/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u96.pfb></usr/share/te
+xmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u98.pfb></usr/share/texmf-dist/f
+onts/type1/public/ipaex-type1/ipxm-r-u99.pfb></usr/share/texmf-dist/fonts/type1
+/public/ipaex-type1/ipxm-r-u9a.pfb></usr/share/texmf-dist/fonts/type1/public/ip
+aex-type1/ipxm-r-uff.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a
+.pfb>
+Output written on resume_lutao_jp_cisco2.pdf (1 page, 606100 bytes).
 PDF statistics:
- 375 PDF objects out of 1000 (max. 8388607)
- 238 compressed objects within 3 object streams
+ 419 PDF objects out of 1000 (max. 8388607)
+ 266 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 16598 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 12018 words of extra memory for PDF output out of 14400 (max. 10000000)
 
