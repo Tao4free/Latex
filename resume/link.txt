@@ -1,2 +1,0 @@
-use pdflatex write japanese
-https://qiita.com/zr_tex8r/items/cdaac1500718eb9fa330
